@@ -1,9 +1,10 @@
 <h1>C PROGRAM REPOSITORY</h1> <br>
-<strong><em>
-Author - Manu Paul</em></strong><br>
+<strong><em><h3>
+Author - Manu Paul</h3></em></strong><br>
+<p>
 This is my c program repository
 here you can get all of my c programs
-<br>
+</p>
 <br>
 <h2>Items included
 </h2>
