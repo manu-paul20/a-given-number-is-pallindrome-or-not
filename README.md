@@ -1,5 +1,6 @@
-C PROGRAM REPOSITORY <br>
-Author - Manu Paul <br>
+<h1>C PROGRAM REPOSITORY</h1> <br>
+<strong><em>
+Author - Manu Paul</em></strong><br>
 This is my c program repository
 here you can get all of my c programs
 <br>
